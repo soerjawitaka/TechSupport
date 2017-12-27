@@ -1,0 +1,66 @@
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport.mdf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport_log.ldf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.frmRegistrationMaintenance.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week7 - INFO2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe.config
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport.mdf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport_log.ldf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.frmRegistrationMaintenance.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.Resources.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport.mdf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport_log.ldf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.frmRegistrationMaintenance.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.Resources.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week7 - INFO 2574\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport.mdf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport_log.ldf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.frmRegistrationMaintenance.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.GenerateResource.Cache
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport.mdf
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupport_log.ldf
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe.config
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.exe
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.pdb
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\bin\Debug\TechSupportRegistration.xml
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.frmRegistrationMaintenance.resources
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.Resources.resources
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.GenerateResource.Cache
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.vbproj.CoreCompileInputs.cache
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.exe
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.xml
+C:\Users\122125\Desktop\SCC\Archive\WINTER 2017\INFO 2574 - Visual Basic\Final\TechSupportRegistration\TechSupportRegistration\obj\Debug\TechSupportRegistration.pdb
