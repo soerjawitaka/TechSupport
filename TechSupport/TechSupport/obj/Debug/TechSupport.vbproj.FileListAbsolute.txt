@@ -1,0 +1,57 @@
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmAddIncident.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmCustomerIncident.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmFindCustomerByState.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.Resources.resources
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.Designer.vb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsc
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsd
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xss
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport.mdf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport_log.ldf
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\bin\Debug\TechSupport.xml
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.pdb
+C:\Users\Public\Documents\+++SCC+++\INFO 2574 - Visual Basic\Week5 - INFO 2574\TechSupport\TechSupport\obj\Debug\TechSupport.vbprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.Designer.vb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsc
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsd
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xss
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport.mdf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport_log.ldf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\bin\Debug\TechSupport.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.vbprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmAddIncident.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmCustomerIncident.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.frmFindCustomerByState.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Week5 - INFO2574\TechSupport\TechSupport\obj\Debug\TechSupport.vbproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.Designer.vb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsc
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xsd
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupportDataSet.xss
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport.mdf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport_log.ldf
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\bin\Debug\TechSupport.xml
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.vbprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.frmAddIncident.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.frmCustomerIncident.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.frmFindCustomerByState.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 2574 - Visual Basic\Final\TechSupport\TechSupport\obj\Debug\TechSupport.vbproj.GenerateResource.Cache
